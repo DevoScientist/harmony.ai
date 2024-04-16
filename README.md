@@ -9,7 +9,7 @@ myenv\Scripts\activate
 source myenv/bin/activate
 
 # Install required packages
-pip install requirements.txt
+pip install -r requirements.txt
 
 # Deactivate after doing all jobs done. Do not close it untill you are done.
 # Deactivate the virtual environment
